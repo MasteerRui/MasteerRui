@@ -9,6 +9,9 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masteerrui&theme=nord_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masteerrui&theme=nord_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masteerrui&theme=nord_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masteerrui&theme=nord_dark"/>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-suizzz11.vercel.app/api?username=masteerrui&show_icons=true&locale=en" alt="masteerrui" /></p>
 
