@@ -8,7 +8,7 @@
 <p><img align="left" src="https://github-readme-stats-suizzz11.vercel.app/api/top-langs?username=masteerrui&show_icons=true&locale=en&layout=compact" alt="masteerrui" /></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masteerrui&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masteerrui&theme=nord_dark"/>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-suizzz11.vercel.app/api?username=masteerrui&show_icons=true&locale=en" alt="masteerrui" /></p>
 
