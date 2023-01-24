@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/2KKptAM.png)](https://rishavchanda.io)
+[![MasterHead](https://imgur.com/2KKptAM.png)]()
 
 - 📫 How to reach me **ruiflorencio018@gmail.com**
 
