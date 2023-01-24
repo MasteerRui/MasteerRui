@@ -11,9 +11,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MasteerRui&theme=tokyonight"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MasteerRui&theme=tokyonight"/>
 </p>
-
-
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MasteerRui&bg_color=1E1E1E&color=ffffff&line=0080c0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
