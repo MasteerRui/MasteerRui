@@ -1,11 +1,15 @@
+[![MasterHead](https://imgur.com/2KKptAM.png)](https://rishavchanda.io)
+
+- 📫 How to reach me **ruiflorencio018@gmail.com**
+
 <h1 align="center">Hi 👋, I'm Rui</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masteerrui&label=Profile%20views&color=0e75b6&style=flat" alt="masteerrui" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masteerrui" alt="masteerrui" /></a> </p>
 
-- 🔭 I’m currently working on **BusInfo**
+- 📫 How to reach me **ruiflorencio018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masteerrui&" alt="masteerrui" /></p>
 
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MasteerRui&bg_color=1E1E1E&color=ffffff&line=0080c0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
