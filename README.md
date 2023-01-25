@@ -10,4 +10,4 @@
     <img src="http://github-readme-stats-7hazcpbnr-suizzz11.vercel.app/api/top-langs/?username=masteerrui&layout=compact&bg_color=1E1E1E&theme=tokyonight&hide_border=true&count-private=true"/>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MasteerRui&bg_color=1E1E1E&color=ffffff&line=0080c0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MasteerRui&bg_color=1E1E1E&color=ffffff&line=0080c0&point=403d3d&area=true&hide_border=true)]()
