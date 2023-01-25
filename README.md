@@ -10,6 +10,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masteerrui&theme=tokyonight"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masteerrui&theme=tokyonight"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MasteerRui&theme=tokyonight"/>
+  [![Top Langs](github-readme-stats-7hazcpbnr-suizzz11.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
