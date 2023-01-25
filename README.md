@@ -7,7 +7,7 @@
 <h1 align="center">Stats</h3>
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasteerRui&theme=tokyonight"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MasteerRui&theme=tokyonight"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masteerrui&theme=tokyonight"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masteerrui&theme=tokyonight"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MasteerRui&theme=tokyonight"/>
 </p>
