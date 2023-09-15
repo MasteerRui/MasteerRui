@@ -1,7 +1,8 @@
 [![MasterHead](https://imgur.com/2KKptAM.png)]()
 
 ## Contact:
-- 📫 How to reach me **ruiflorenciooo@gmail.com**
+## 📫 How to reach me:
+**Email: ruiflorenciooo@gmail.com**
 
 ## Past experiences:
 ### Year 2023
