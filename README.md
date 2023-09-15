@@ -1,7 +1,7 @@
 [![MasterHead](https://imgur.com/2KKptAM.png)]()
 
 - 📫 How to reach me **ruiflorenciooo@gmail.com**
-- Passed expiriences [Critical Software]()
+- Passed expiriences **[Critical Software](https://criticalsoftware.com/)**
 <p align="left"> <img height="250em" width= "100%" src="https://spotify-recently-played-readme.vercel.app/api?user=y2wml7cyyzr1ob46su0a5ibap&count=3&width=1000"></p>
 ps: I like all music styles
 <h1 align="center">Languages and Tools</h3>
