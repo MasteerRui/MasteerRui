@@ -12,7 +12,7 @@
 ps: I like all music styles
 <h1 align="left">Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,go,js,ts,react,nestjs,nodejs,express,flutter,mongodb,firebase,mysql,postgresql,postman,git,docker,figma,html,css,tailwind,bootstrap,arduino)]()
+[![My Skills](https://skillicons.dev/icons?i=dart,go,js,ts,react,nextjs,nodejs,express,flutter,mongodb,firebase,mysql,postgresql,postman,git,docker,figma,html,css,tailwind,bootstrap,arduino)]()
 
 <h1 align="left">Stats</h3>
 <p align="left">
