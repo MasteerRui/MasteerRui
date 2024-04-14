@@ -7,11 +7,6 @@
 ### Year 2023
 - [Critical Software](https://criticalsoftware.com/) - 200 hours internship.
 
-## More about me:
-<p align="left"> <img height="250em" width= "100%" src="https://spotify-recently-played-readme.vercel.app/api?user=y2wml7cyyzr1ob46su0a5ibap&count=3&width=1000"></p>
-ps: I like all music styles
-<h1 align="left">Skills</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=dart,go,js,ts,react,nextjs,nodejs,express,flutter,mongodb,firebase,mysql,postgresql,postman,git,docker,figma,html,css,tailwind,bootstrap,arduino)]()
 
 <h1 align="left">Stats</h3>
