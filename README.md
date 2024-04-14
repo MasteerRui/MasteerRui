@@ -7,6 +7,7 @@
 ### Year 2023
 - [Critical Software](https://criticalsoftware.com/) - 200 hours internship.
 
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=dart,go,js,ts,react,nextjs,nodejs,express,flutter,mongodb,firebase,mysql,postgresql,postman,git,docker,figma,html,css,tailwind,bootstrap,arduino)]()
 
 <h1 align="left">Stats</h3>
