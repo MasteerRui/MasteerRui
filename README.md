@@ -7,7 +7,7 @@
 ### Year 2023
 - [Critical Software](https://criticalsoftware.com/) - 200 hours internship.
 ### Year 2024 - Present
-- [Grupo EOS Ibérica](https://eosiberica.es/) - present.
+- [Grupo EOS Ibérica](https://eosiberica.es/) - present (Erasmus +, Cordóba Spain).
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=dart,go,js,ts,react,nextjs,nodejs,express,flutter,mongodb,firebase,mysql,postgresql,postman,git,docker,figma,html,css,tailwind,bootstrap,arduino)]()
