@@ -9,7 +9,7 @@
 - Porto, Portugal
 ### Year 2024 - Present
 - [Grupo EOS Ibérica](https://eosiberica.es/) - present (Erasmus+).
-- Córdoba Spain
+- Córdoba, Spain
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=dart,go,js,ts,react,nextjs,nodejs,express,flutter,mongodb,firebase,mysql,postgresql,postman,git,docker,figma,html,css,tailwind,bootstrap,arduino)]()
