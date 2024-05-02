@@ -6,6 +6,7 @@
 ## Past experiences:
 ### Year 2023
 - [Critical Software](https://criticalsoftware.com/) - 200 hours internship.
+- Porto, Portugal
 ### Year 2024 - Present
 - [Grupo EOS Ibérica](https://eosiberica.es/) - present (Erasmus).
 - Córdoba Spain
