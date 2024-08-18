@@ -7,8 +7,8 @@
 ### Year 2023
 - [Critical Software](https://criticalsoftware.com/) - 200 hours internship.
 - Porto, Portugal
-### Year 2024 - Present
-- [Grupo EOS Ibérica](https://eosiberica.es/) - present (Erasmus+).
+### Year 2024
+- [Grupo EOS Ibérica](https://eosiberica.es/) - 400 hours (Erasmus+).
 - Córdoba, Spain
 
 ## Skills
