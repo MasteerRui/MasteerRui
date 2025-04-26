@@ -16,7 +16,7 @@
 
 <h1 align="left">Stats</h3>
 <p align="left">
-  <img height="200em" src="http://github-readme-stats-7hazcpbnr-suizzz11.vercel.app/api?username=masteerrui&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=1E1E1E&count-private=true"/>
+  <img height="200em" src="https://www.ruiflorencio.dev/api/github-stats"/>
     <img height="200em" src="http://github-readme-stats-7hazcpbnr-suizzz11.vercel.app/api/top-langs/?username=masteerrui&layout=compact&langs_count=16&bg_color=1E1E1E&theme=tokyonight&hide_border=true&count-private=true"/>
 </p>
 
