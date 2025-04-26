@@ -13,10 +13,7 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=dart,go,js,ts,react,nextjs,nodejs,express,flutter,mongodb,firebase,mysql,postgresql,postman,git,docker,figma,html,css,tailwind,bootstrap,arduino)]()
-
+[![MasterHead](https://www.ruiflorencio.dev/api/github-stats)]()
 <h1 align="left">Stats</h3>
-<p align="left">
-  <img height="200em" src="https://www.ruiflorencio.dev/api/github-stats"/>
-    <img height="200em" src="http://github-readme-stats-7hazcpbnr-suizzz11.vercel.app/api/top-langs/?username=masteerrui&layout=compact&langs_count=16&bg_color=1E1E1E&theme=tokyonight&hide_border=true&count-private=true"/>
-</p>
+<img height="400em" src="https://www.ruiflorencio.dev/api/github-stats"/>
 
